@@ -1,0 +1,2 @@
+# JuAn-HearthSim
+JustAnotherHearthstoneSimulator
